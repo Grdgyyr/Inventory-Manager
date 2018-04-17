@@ -1,0 +1,7 @@
+===Mysql Server Connection===
+Server: localhost
+Port: 3307
+Schema: rjr
+Username: root
+Password: popsiess
+===Application Config===
